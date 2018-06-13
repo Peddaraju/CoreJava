@@ -1,14 +1,14 @@
-package com.app;
+package com.app1;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class S 
+public class M 
 {
 	public static void main(String[] args) 
 	{
-		String s = "abcxyzhelloabc";
-		Pattern p = Pattern.compile(s.substring(0,3));
+		String s = "a1b2c3h4z9";
+		Pattern p = Pattern.compile("\\d");
 		Matcher m = p.matcher(s);
 		while(m.find())
 		{

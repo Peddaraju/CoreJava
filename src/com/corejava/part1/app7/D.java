@@ -1,4 +1,7 @@
 package com.corejava.part1.app7;
+
+import javax.xml.namespace.QName;
+
 class D 
 {
 	static	
@@ -11,4 +14,6 @@ class D
 	{
 	    System.out.println("from main");
 	}
+	
+	
 }

@@ -1,14 +1,15 @@
-package com.app;
+package com.app1;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class H 
+public class G 
 {
 	public static void main(String[] args) 
 	{
-		String s = "a1b2c3a1b2c3";
-		Pattern p = Pattern.compile("[1234]");
+		String s = "AbcabcAbcABC";
+		String s1 = "A";
+		Pattern p = Pattern.compile(s1);
 		Matcher m = p.matcher(s);
 		while(m.find())
 		{
