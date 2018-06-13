@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="src" path="StringClass"/>
-	<classpathentry kind="src" path="Arrays"/>
-	<classpathentry kind="src" path="Collections"/>
-	<classpathentry kind="src" path="Strings"/>
-	<classpathentry kind="src" path="Exceptions"/>
-	<classpathentry kind="src" path="Generics"/>
-	<classpathentry kind="src" path="AdditionalPrograms"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
