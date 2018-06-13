@@ -1,7 +1,7 @@
-class B
+/*class B
 {
     static int i = 20;
-}
+}*/
 class C
 {
 	public static void main(String[] args) 
